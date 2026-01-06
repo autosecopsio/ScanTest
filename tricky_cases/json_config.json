@@ -1,0 +1,5 @@
+{
+  "service": "firebase",
+  "apiKey": "AIzaSyD-EXAMPLE-KEY-1234567890",
+  "authDomain": "example.firebaseapp.com"
+}

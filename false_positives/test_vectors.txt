@@ -1,0 +1,6 @@
+Example tokens used in documentation:
+
+token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+key   = "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+
+These are placeholders only.
